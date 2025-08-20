@@ -17,9 +17,6 @@ Users can add tasks, mark them as done, and delete tasks from the list.
 
 🖼️ Demo
 
-
-(Replace with your own screenshot)
-
 📂 Project Structure
 📦 todo-list
  ┣ 📜 index.html      # HTML structure
